@@ -1,5 +1,5 @@
-
-	[{
+{
+	"products": [{
 			"title": "Common Projects Bball High ",
 			"color": "White",
 			"price": 540,
@@ -30,3 +30,4 @@
 			"availability": "Out of stock"
 		}
 	]
+}
