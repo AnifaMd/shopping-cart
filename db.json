@@ -4,14 +4,7 @@
 			"id": "ec1040",
 			"color": "White",
 			"price": 540,
-			"availability": "Available",
-			"ec1040": [{
-				"title": "Common Projects Bball High ",
-				"id": "ec1040",
-				"color": "White",
-				"price": 540,
-				"availability": "Available"
-			}]
+			"availability": "Available"
 		},
 		{
 			"title": "Maison Margiela Future Sneakers",
@@ -41,6 +34,12 @@
 			"price": 990,
 			"availability": "Out of stock"
 		}
-	]
-
+	],
+	"ec1040": [{
+		"title": "Common Projects Bball High ",
+		"id": "ec1040",
+		"color": "White",
+		"price": 540,
+		"availability": "Available"
+	}]
 }
