@@ -4,7 +4,14 @@
 			"id": "ec1040",
 			"color": "White",
 			"price": 540,
-			"availability": "Available"
+			"availability": "Available",
+			"ec1040": [{
+				"title": "Common Projects Bball High ",
+				"id": "ec1040",
+				"color": "White",
+				"price": 540,
+				"availability": "Available"
+			}]
 		},
 		{
 			"title": "Maison Margiela Future Sneakers",
@@ -16,14 +23,14 @@
 		{
 			"title": "Our Legacy Brushed Scarf",
 			"id": "ec1042",
-			"color": "Brown",
+			"color ": "Brown",
 			"price": 349,
 			"availability": "Available"
 		},
 		{
 			"title": "Anouk Rose Gold Ladies Watch",
 			"id": "ec1043",
-			"color": "Rose Gold",
+			"color ": "Rose Gold",
 			"price": 1500,
 			"availability": "Available"
 		},
@@ -35,4 +42,5 @@
 			"availability": "Out of stock"
 		}
 	]
+
 }
