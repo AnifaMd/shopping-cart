@@ -41,5 +41,33 @@
 		"color": "White",
 		"price": 540,
 		"availability": "Available"
+	}],
+	"ec1041": [{
+		"title": "Maison Margiela Future Sneakers",
+		"id": "ec1041",
+		"color": "White",
+		"price": 870,
+		"availability": "Out of stock"
+	}],
+	"ec1042": [{
+		"title": "Our Legacy Brushed Scarf",
+		"id": "ec1042",
+		"color": "Brown",
+		"price": 349,
+		"availability": "Available"
+	}],
+	"ec1043": [{
+		"title": "Anouk Rose Gold Ladies Watch",
+		"id": "ec1043",
+		"color": "Rose Gold",
+		"price": 1500,
+		"availability": "Available"
+	}],
+	"ec1044": [{
+		"title": "Fantascia Loafer",
+		"id": "ec1044",
+		"color": "Tan Brown",
+		"price": 990,
+		"availability": "Out of stock"
 	}]
 }
