@@ -55,5 +55,12 @@
 		"color": "Brown",
 		"price": 349,
 		"availability": "Available"
+	}],
+	"ec1043": [{
+		"title": "Anouk Rose Gold Ladies Watch",
+		"id": "ec1043",
+		"color": "Rose Gold",
+		"price": 1500,
+		"availability": "Available"
 	}]
 }
