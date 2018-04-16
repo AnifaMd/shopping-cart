@@ -33,13 +33,6 @@
 			"color": "Tan Brown",
 			"price": 990,
 			"availability": "Out of stock"
-		},
-		{
-			"title": "Anouk Rose Gold Ladies Watch 2",
-			"id": "ec1045",
-			"color": "Rose Gold",
-			"price": 1500,
-			"availability": "Available"
 		}
 	],
 	"ec1040": [{
@@ -75,13 +68,6 @@
 		"id": "ec1044",
 		"color": "Tan Brown",
 		"price": 990,
-		"availability": "Available"
-	}],
-	"ec1045": [{
-		"title": "Anouk Rose Gold Ladies Watch2",
-		"id": "ec1045",
-		"color": "Rose Gold",
-		"price": 1500,
 		"availability": "Available"
 	}]
 }
