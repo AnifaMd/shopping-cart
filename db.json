@@ -28,8 +28,8 @@
 			"availability": "Available"
 		},
 		{
-			"title": "Fantascia Loafer",
-			"id": "ec1044",
+			"title": "Fantascia Loafer ",
+			"id": "ec1043",
 			"color": "Tan Brown",
 			"price": 990,
 			"availability": "Out of stock"
@@ -61,13 +61,6 @@
 		"id": "ec1043",
 		"color": "Rose Gold",
 		"price": 1500,
-		"availability": "Available"
-	}],
-	"ec1044": [{
-		"title": "Fantascia Loafer",
-		"id": "ec1044",
-		"color": "Tan Brown",
-		"price": 990,
 		"availability": "Available"
 	}]
 }
